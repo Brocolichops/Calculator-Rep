@@ -19,8 +19,8 @@ DEV FLOWCHART:
 ![image](https://github.com/user-attachments/assets/20b65371-a2c2-45d9-9c18-d1c7c7d90051)
 
 This is a visualization of the webapp dev. Makes it easier for me to understand the logic behind my code and acts as a pseudo-pseudocode.
-The color paletter can be found here: https://colorhunt.co/palette/fbf5e5c890a7a35c7a212121
-
+The color palette can be found here: https://colorhunt.co/palette/fbf5e5c890a7a35c7a212121
+________________________________________________________________________________________________________________________________________________________________________________________________________
 
 NOTE: This is my first ever recorded project, however prior to starting this project, I have been learning HTML, CSS & JavaScript for a good couple of months. Enjoy!
 
