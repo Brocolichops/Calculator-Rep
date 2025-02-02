@@ -13,6 +13,7 @@ USING THE CALCULATOR:
   3. Click on the operator you'd like to use.
   4. Enter the second number.
   5. Click on the little '=' button on the bottom right/press 'Enter' and VOILA.
+________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ![image](https://github.com/user-attachments/assets/20b65371-a2c2-45d9-9c18-d1c7c7d90051)
 
