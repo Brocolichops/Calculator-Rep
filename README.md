@@ -19,3 +19,4 @@ This is my first ever recorded project, however prior to starting this project, 
 THIS PROJECT WAS DEVELOPED ON VISUAL STUDIO CODE
 
 Extensions: Live server, Prettier, Code Spell Checker, Draw.io Integration
+
