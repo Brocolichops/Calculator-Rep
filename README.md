@@ -15,6 +15,7 @@ USING THE CALCULATOR:
   5. Click on the little '=' button on the bottom right/press 'Enter' and VOILA.
 ________________________________________________________________________________________________________________________________________________________________________________________________________
 DEV FLOWCHART: 
+
 ![image](https://github.com/user-attachments/assets/20b65371-a2c2-45d9-9c18-d1c7c7d90051)
 
 This is a visualization of the webapp dev. Makes it easier for me to understand the logic behind my code and acts as a pseudo-pseudocode.
