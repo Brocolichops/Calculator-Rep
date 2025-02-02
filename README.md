@@ -10,8 +10,12 @@ USING THE CALCULATOR:
 
   1. Upon opening the website you'll be met with a rather aesthetically pleasing machine.
   2. In order to perform an operation just click on the numbers/type them from your keyboard.
-  3. Click on the operator you'd like to implement
+  3. Click on the operator you'd like to use.
   4. Enter the second number.
   5. Click on the little '=' button on the bottom right/press 'Enter' and VOILA.
 
-This is my first ever recorded project however prior to me starting this project, I have been learning HTML, CSS & JavaScript for good couple of months. Enjoy!
+This is my first ever recorded project, however prior to starting this project, I have been learning HTML, CSS & JavaScript for a good couple of months. Enjoy!
+
+THIS PROJECT WAS DEVELOPED ON VISUAL STUDIO CODE
+
+Extensions: Live server, Prettier, Code Spell Checker, Draw.io Integration
