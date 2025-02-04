@@ -21,7 +21,11 @@ DEV FLOWCHART:
 This is a visualization of the webapp dev. Makes it easier for me to understand the logic behind my code and acts as a pseudo-pseudocode.
 The color palette can be found here: https://colorhunt.co/palette/fbf5e5c890a7a35c7a212121
 ________________________________________________________________________________________________________________________________________________________________________________________________________
+![image](https://github.com/user-attachments/assets/f981bbb1-b372-4b48-80f9-e28ab342a71f)
 
+![image](https://github.com/user-attachments/assets/75f4d98e-5aa3-409d-b3ee-91b4f7537475)
+
+________________________________________________________________________________________________________________________________________________________________________________________________________
 NOTE: This is my first ever recorded project, however prior to starting this project, I have been learning HTML, CSS & JavaScript for a good couple of months. Enjoy!
 
 THIS PROJECT WAS DEVELOPED ON VISUAL STUDIO CODE
