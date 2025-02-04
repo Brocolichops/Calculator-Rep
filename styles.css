@@ -1,7 +1,8 @@
 :root{
-    --body: #C890A7;
-    --button: #FBF5E5;
-    --screen: #A35C7A;
+    --body: #00000022;
+    --button: orange;
+    --button-active: white;
+    --screen: #FFFFFF;
     --background: #212121;
 }
 
@@ -21,10 +22,11 @@ body{
     height: 700px;
     border: 2px solid black;
     margin: 0 auto;
-    border-radius: 5%;
+    border-radius: 2%;
     transform: translateY(20%);
     background-color: var(--body);
     z-index: 1;
+    box-shadow: 20px 20px;
 }
 
 #screen {
@@ -34,7 +36,6 @@ body{
     display: block;
     margin: 10px auto;
     margin-top: 15px;
-    border-radius: 10%;
     background-color: var(--screen);
     font-size: 4rem;
     text-align: right;
@@ -63,14 +64,13 @@ button {
     margin: 0;
     background-color: var(--button);
     border: none;
+    box-shadow: 6px 6px;
 }
 
-button:hover{
-    background-color: #00000044;
-    transform: translateY(-2px);
-}
+
 
 button:active{
-    background-color: #00000088;
-    transform: translateY(0);
+    background-color: var(--button-active);
+    transform:translate(6px, 6px);
+    box-shadow: 0px 0px;
 }
