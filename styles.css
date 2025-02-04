@@ -22,7 +22,7 @@ body{
     border: 2px solid black;
     margin: 0 auto;
     border-radius: 2%;
-    transform: translateY(20%);
+    transform: translateY(10%);
     background-color: var(--body);
     z-index: 1;
     box-shadow: 20px 20px;
